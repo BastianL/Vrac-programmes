@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Bastian
+ *
+ */
+module Garage {
+}
